@@ -2,6 +2,12 @@
 
 Este projeto utiliza a biblioteca **spaCy** para detectar o sentimento de frases em português com base em palavras-chave positivas e negativas. A análise classifica o texto como **Positivo**, **Negativo** ou **Neutro**.
 
+## 👥 Integrantes
+
+- **Lancelot Chagas Rodrigues** - RM: 554707  
+- **Ana Carolina Martins da Silva** - RM: 555762
+
+
 ## 🔧 Ferramentas e Bibliotecas Utilizadas
 
 - **Python**
@@ -25,11 +31,6 @@ Sentimento detectado: Negativo
 ----------------------------------------
 ```
 
-## 👥 Integrantes
-
-- **Lancelot Chagas Rodrigues** - RM: 554707  
-- **Ana Carolina Martins da Silva** - RM: 555762
-
 ## 📂 Execução
 
 Instale os pacotes necessários:
@@ -40,3 +41,8 @@ python -m spacy download pt_core_news_sm
 ```
 
 Execute o script em Python e veja os sentimentos detectados para cada frase!
+
+## 🖥️ Link
+
+🔗 **Acesse o notebook no Google Colab:**  
+[👉 Abrir no Colab](https://colab.research.google.com/drive/1NOZDgKCjZoxIGH_txNo4i0fkRJwoUgRh?usp=sharing)
